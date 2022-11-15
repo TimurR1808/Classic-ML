@@ -1,0 +1,7 @@
+Notebook for Spaceship Titanic
+Binary Classification Prediction based on GradientBoostingClassifier, loss function is 'log', 
+There are two notebooks, the only difference is that Categorical Data Imputation is done in two styles:
+1) one is ModeReplacement 2) the second is Imputation by GDClassifier
+first option is better in terms of performance, but second option is better in terms of accuracy (difference is insignifficant)
+445 / 2339 place
+best score is 0.80336 (accuracy)

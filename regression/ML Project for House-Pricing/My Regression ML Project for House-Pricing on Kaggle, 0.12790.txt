@@ -1,0 +1,6 @@
+This is my notebook for House Prices Competition
+I took 767/43299 place on old competition
+and 944/4173 on new one, datasets are the same, so i leave only one notebook here
+In this notebook i preprocessed the data with my own analysis of market, imputed all missing values by KNN algorithm 
+and modeled prediction based ob GradientBoostingRegressor.
+Evaluation is log squarred RMSE, - best score is 0.12790 which is about 14k dollars prediction error
